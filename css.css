@@ -1,0 +1,44 @@
+
+body{
+    background: #82CCDD;
+}
+.lol{
+    width: 100px;
+}
+
+.div{
+    width: 360px;
+    height: 317px;
+    background: white;
+    border-radius: 10px;
+    margin: 10px 0 5px 0 ;
+}
+.input input{
+    width: 300px;
+    height: 40px;
+    border-radius: 5px;
+    margin: 0 0 20px 0 ;
+}
+.div button{
+    width: 300px;
+    height: 40px;
+    background: #288FB4;
+    font-weight: 400;
+    font-size: 14px;
+    color: white;
+}
+.ul{
+    width: 350px;
+
+}
+.lol{
+    border-radius: 10px;
+    border: none;
+    margin: 0 0 10px 0;
+    font-weight: 300;
+    font-size: 12px;
+}
+.ul1{
+    display: flex;
+    justify-content: center;
+}
